@@ -36,6 +36,6 @@ Welcome to my GitHub! I'm passionate about leveraging data science and machine l
 📩 **Email:** durdanakhalid98@gmail.com  
 💼 **LinkedIn:** [in/durdana-khalid-66b6461ba](https://www.linkedin.com/in/durdana-khalid-66b6461ba)  
 🐍 **GitHub:** [DurdanaKhalid49](https://github.com/DurdanaKhalid49)  
-📊 **Kaggle:** _Coming Soon_
+📊 **Kaggle:** [(https://www.kaggle.com/durdanakhalid)](https://www.kaggle.com/durdanakhalid)
 
 💡 **Looking for collaborations? Open to exciting opportunities in Data Science & ML!**
